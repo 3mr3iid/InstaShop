@@ -1,0 +1,9 @@
+1 Pepsi Drinks 6 22
+2 Cola Drinks 6 56
+3 Bread Fooood 5 100
+4 Cake Fooood 70 20
+5 Meat Fooood 150 25
+6 Cheese Fooood 13 40
+7 SunScreen SkinCare 100 9
+8 Shampoo SkinCare 80 13
+9 Apple Fruits 7 200
